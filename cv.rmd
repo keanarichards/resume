@@ -60,6 +60,7 @@ Statistical areas of expertise {#analysis}
 
 ```{r}
 CV %<>% print_text_block('data_analysis')
+## testing2
 ```
 
 Research strengths {#visualization}
