@@ -45,14 +45,18 @@ Aside
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %>% print_contact_info()
+CV %<>% print_contact_info()
 ```
 
 Statistical Software {#skills}
 --------------------------------------------------------------------------------
 
+- R
+- SPSS
+- Python 
+
 ```{r}
-CV %<>% print_skill_bars()
+## CV %<>% print_skill_bars()
 ```
 
 Statistical areas of expertise {#analysis}
@@ -60,7 +64,6 @@ Statistical areas of expertise {#analysis}
 
 ```{r}
 CV %<>% print_text_block('data_analysis')
-## testing2
 ```
 
 Research strengths {#visualization}
@@ -92,15 +95,6 @@ Relevant Experience {data-icon=laptop}
 ```{r}
 CV %<>% print_section('experience')
 
-## testing
-```
-
-
-Selected Presentations {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section('presentations')
 ```
 
 Education {data-icon=graduation-cap data-concise=true}
