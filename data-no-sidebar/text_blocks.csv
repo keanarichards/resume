@@ -1,0 +1,4 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+data_analysis,"multilevel linear modeling, logistic regression, mediation, moderation, factor analysis, ANOVA"
+research,"survey design, experimental design, RMarkdown reports, data visualization with ggplot2, data wrangling with regular expressions and the tidyverse in R, reproducibility (e.g., Github version control)"
