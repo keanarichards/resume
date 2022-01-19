@@ -52,14 +52,13 @@ Statistical Software {#skills}
 --------------------------------------------------------------------------------
 
 - R
-- SPSS
 - Python 
 
 ```{r}
 ## CV %<>% print_skill_bars()
 ```
 
-Statistical areas of expertise {#analysis}
+Analytical methods {#analysis}
 --------------------------------------------------------------------------------
 
 ```{r}
